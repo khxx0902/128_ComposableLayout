@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PAM_Activity 2</string>
+    <string name="greeting">Selamat Malam</string>
+    <string name="name">Hedarr</string>
+</resources>
